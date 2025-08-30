@@ -1,5 +1,6 @@
-**Face Detection using MTCNN and OpenCV**
-###This project is a Jupyter Notebook implementation of face detection on an image. It uses the MTCNN (Multi-task Cascaded Convolutional Networks) for accurate face detection and OpenCV for image manipulation.
+###Face Detection using MTCNN and OpenCV
+
+This project is a Jupyter Notebook implementation of face detection on an image. It uses the MTCNN (Multi-task Cascaded Convolutional Networks) for accurate face detection and OpenCV for image manipulation.
 
 Features
 Face Detection: Utilizes the mtcnn library to detect human faces in an image.
